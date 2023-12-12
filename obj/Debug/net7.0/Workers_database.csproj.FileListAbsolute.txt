@@ -1,0 +1,15 @@
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.csproj.AssemblyReference.cache
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.AssemblyInfoInputs.cache
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.AssemblyInfo.cs
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.csproj.CoreCompileInputs.cache
+/Users/marekwasiewicz/Programowanie/Workers_database/bin/Debug/net7.0/Workers_database
+/Users/marekwasiewicz/Programowanie/Workers_database/bin/Debug/net7.0/Workers_database.deps.json
+/Users/marekwasiewicz/Programowanie/Workers_database/bin/Debug/net7.0/Workers_database.runtimeconfig.json
+/Users/marekwasiewicz/Programowanie/Workers_database/bin/Debug/net7.0/Workers_database.dll
+/Users/marekwasiewicz/Programowanie/Workers_database/bin/Debug/net7.0/Workers_database.pdb
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.dll
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/refint/Workers_database.dll
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.pdb
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/Workers_database.genruntimeconfig.cache
+/Users/marekwasiewicz/Programowanie/Workers_database/obj/Debug/net7.0/ref/Workers_database.dll
